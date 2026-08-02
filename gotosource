@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/z0k1m/TPFOLLOW/main/source"))()
